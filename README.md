@@ -8,4 +8,4 @@ Application that sorts the following data structures from smallest value to grea
 
 Sorting algorithm used for all data structures is bubble sort.
 
-> Note: This was made during me following along Typescript the Complete Developers Guide by Stephen Grinder
+> Note: This was made during me following along [Typescript the Complete Developers Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/) by Stephen Grinder
